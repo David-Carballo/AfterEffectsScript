@@ -2,7 +2,7 @@
 SubtitlesLyricVideo
 ###
 
-<p align="left">a script for After Effects to automate the process of creating a VideoLyrics with the song lyrics</p>
+<p align="left">A script for After Effects to automate the process of creating a VideoLyrics with the song lyrics</p>
 
 ###
 
